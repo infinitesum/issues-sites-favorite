@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Simple Icones",
+      "url": "https://simpleicons.org/",
+      "avatar": "",
+      "screenshot": "",
+      "description": "3093 Free SVG icons for popular brands"
+    },
+    {
+      "title": "our world in data",
+      "url": "https://ourworldindata.org/",
+      "avatar": "https://ourworldindata.org/apple-touch-icon.png",
+      "screenshot": "https://p.ipic.vip/eb25wn.png",
+      "description": "研究和数据，在应对世界上最大的问题方面取得进展"
+    },
+    {
+      "title": "Academic GPTs",
+      "url": "https://awesomegpts.vip/",
+      "avatar": "https://awesomegpts.vip/images/logo.svg",
+      "screenshot": "https://github.com/infinitesum/issues-sites-favorite/assets/148856002/7dea68a4-b6ca-455a-92ef-f491675fef04",
+      "description": "Explore a world of GPTs: from author's favorites to community gems , and a treasure trove of open-source prompts! "
+    }
+  ]
+}
